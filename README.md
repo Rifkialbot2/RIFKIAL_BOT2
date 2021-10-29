@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## RIFKIAL_BOT2
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -11,13 +11,13 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 # TERMUX
 ```bash
 > download termux
-> buka
+> buka/
 > pkg install git
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/rifkialbo2/RIFKIAL_BOT2
+> cd RIFKIAL_BOT2
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
